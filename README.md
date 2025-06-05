@@ -14,5 +14,3 @@
 
 6 - Stock de Papa Noel
 Desde Finlandia, te encargan que te hagas cargo del stock de Papa Noel! Tienes una cantidad inicial de regalos para repartir (que sea más de 100). Puedes inventártela, o pedirla al usuario. Tu eres un duende repartidor. Papa Noel te va preguntando: ¿cuántos regalos has repartido hoy? Y le vas respondiendo, y se van mostrando la cantidad de regalos que quedan en pantalla. Cuando queden menos de 100 del stock, avisar ('ojo, quedan menos de 100 regalos'). Cuando se acaben los regalos, mostrar mensaje : “misión cumplida. Hasta el año que viene!”
-
-Submission
